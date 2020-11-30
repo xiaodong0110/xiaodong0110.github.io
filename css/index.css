@@ -52,7 +52,7 @@
   left: -62px;
 }
 .wrap .toolBar .toolList li:hover i {
-  background: #ffc0cb url(../images/toolbars.png) -87px -174px no-repeat;
+  background: pink url(../images/toolbars.png) -87px -174px no-repeat;
 }
 .wrap .toolBar .toolList li i {
   position: relative;
@@ -88,22 +88,22 @@
   margin: 0 auto;
   line-height: 30px;
 }
-.wrap .header .top .topMain .login {
+.wrap .header .top .topMain .toLogin {
   width: 200px;
   height: 30px;
   float: left;
 }
-.wrap .header .top .topMain .login > h5 {
+.wrap .header .top .topMain .toLogin > h5 {
   float: left;
 }
-.wrap .header .top .topMain .login > p {
+.wrap .header .top .topMain .toLogin > p {
   float: left;
 }
-.wrap .header .top .topMain .login > p a {
+.wrap .header .top .topMain .toLogin > p a {
   margin-left: 5px;
   padding-right: 5px;
 }
-.wrap .header .top .topMain .login > p a:nth-child(1) {
+.wrap .header .top .topMain .toLogin > p a:nth-child(1) {
   border-right: 1px solid #b3aeae;
 }
 .wrap .header .top .topMain > nav {
